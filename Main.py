@@ -3,7 +3,6 @@ from typing import List
 def merge(nums1: List[int], m: int, nums2: List[int], n: int) -> None:
   # Write code here
 
-
 # Do not change the following code
 nums1 = []
 nums2 = []
